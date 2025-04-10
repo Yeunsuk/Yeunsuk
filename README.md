@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<br>
+<h3 align="center">📫 Links 📫</h3>
+<div align="center">
+  <a href="mailto:yanges0603@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:yanges0603@gmail.com"/></a>
+  <a href="https://solved.ac/yanges"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yanges&theme=dark"/></a>
+</div>
 <!--
 **Yeunsuk/Yeunsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Yeunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeunsuk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeunsuk&layout=compact)
+  <br>
+<h3 align="center">📈status📉</h3>
+<div align="center">
+  ![Yeunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeunsuk&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeunsuk&layout=compact)
+</div>
+
