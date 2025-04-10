@@ -3,7 +3,6 @@
 컴퓨터공학전공 양은석입니다
 
 
-
 ## 📫 Links 📫
 <div>
   <a href="mailto:yanges0603@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=badge&logo=Gmail&logoColor=white&link=mailto:yanges0603@gmail.com"/></a>
