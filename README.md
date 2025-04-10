@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <br>
+<br>
 <h3 align="center">📈status📉</h3>
-<div align="center">
-  ![Yeunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeunsuk&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeunsuk&layout=compact)
-</div>
+![Yeunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeunsuk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeunsuk&layout=compact)
 
