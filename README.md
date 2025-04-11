@@ -10,6 +10,24 @@
 </div>
 
 
+
+## 🛠 Tools 🛠
+
+<div>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-0078D6?style=flat&logo=VSCode&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3" />
+<img src="https://img.shields.io/badge/Android studio-3DDC84?style=flat&logo=Android&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+</div>
+
+
 ## 📈status📉
 
 ![Yeunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeunsuk&theme=github_dark_dimmed&show_icons=true&count_private=true)
